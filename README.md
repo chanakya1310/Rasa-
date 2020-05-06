@@ -1,4 +1,4 @@
-# Rasa-
+# Rasa
 Basic Rasa Projects
 
 Rasa Open Source is a framework for natural language understanding, dialogue management, and integrations. Rasa X is a free toolset used to improve contextual assistants built using Rasa Open Source. Together, they include all the features to create great text- and voice-based assistants and chatbots.
